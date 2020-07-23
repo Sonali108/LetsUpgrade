@@ -1,5 +1,5 @@
 Assingment 4 
-Quation1: sum of n numbers with the help of while loop'''
+Quation1: '''sum of n numbers with the help of while loop'''
 sum=0
 i=1
 while i<=10:
@@ -21,7 +21,7 @@ while i<=10:
   
   
   
-Quation2: Take a integer and find prime or not'''
+Quation2: '''Take a integer and find prime or not'''
 num=int(input("enter the number")
 for i in range(2,num):
 	if num%i==0:
